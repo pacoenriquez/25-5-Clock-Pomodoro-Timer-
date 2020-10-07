@@ -1,0 +1,62 @@
+#body {
+  background-color: #34495E;
+}
+#app {
+  height: 100%;
+}
+#title {
+  border-radius: 15px;
+  padding: 15px;
+  min-width: 400px;
+  min-height: 50px;
+}
+#container {
+  background-color: #DC7633;
+  border-radius: 15px;
+  padding-top:20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+  min-width: 500px;
+  min-height: 150px;
+  max-width: 40%;
+  margin-top: 40px;
+}
+#session {
+  max-width: 40%;
+}
+#break {
+  max-width: 40%;
+}
+#timer {
+  min-width: 400px;
+  min-height: 220px;
+  max-width: 40%;
+  padding: 20px;
+  border-radius: 15px;
+  margin: 40px;
+}
+#timer-container {
+  padding: 20px;
+}
+#session-label, #break-label, #timer-label {
+  font-size: 20px;
+  padding: 10px;
+}
+#session-length, #break-length {
+  font-size: 20px;
+  padding: 10px;
+}
+#session-decrement, #session-increment, #break-decrement, #break-increment, #start_stop, #reset {
+  padding: 10px;
+}
+#time-left {
+  font-size: 80px;
+  padding: 10px;
+}
+#start_stop, #reset {
+  border-radius: 15px;
+}
+#timer-label {
+  border-radius: 15px;
+}
